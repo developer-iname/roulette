@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hDrC24vlHikqnA2sqjqWHUg8vQtTkut4fx18sQMyeGer2XDZqeg/8LHIR8qf6QxQsazrAWIDA9hosakUcB1SwA==",
+  "success": true,
+  "projectFilePath": "/home/Owner/Documents/dotNet/roulette/roulette.csproj",
+  "expectedPackageFiles": [
+    "/home/Owner/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
